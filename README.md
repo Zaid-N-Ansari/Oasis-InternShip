@@ -49,5 +49,5 @@ If you want to contribute to this project and make it better, your help is very 
 ## License
 This project is licensed under the [MIT](https://github.com/Zaid-N-Ansari/Oasis-InternShip/blob/main/LICENSE) License.
 
-
+## Salutations
 Thank you for reviewing my repository, have a great day.
