@@ -1,0 +1,55 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="shortcut icon" href="{% static 'images/favicon.ico' %}" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+
+<body>
+    <div class="calc">
+        <input type="text" placeholder="0" name="expr" id="InputFromButton" />
+        <div>
+            <input type="button" value="AC" readonly />
+            <input type="button" value="DEL" readonly />
+            <input type="button" value="%" readonly />
+            <input type="button" class="oper" value="&div;" readonly />
+        </div>
+        <div>
+            <input type="button" value="7" readonly />
+            <input type="button" value="8" readonly />
+            <input type="button" value="9" readonly />
+            <input type="button" class="oper" value="&times;" readonly />
+        </div>
+        <div>
+            <input type="button" value="4" readonly />
+            <input type="button" value="5" readonly />
+            <input type="button" value="6" readonly />
+            <input type="button" class="oper" value="&minus;" readonly />
+        </div>
+        <div>
+            <input type="button" value="1" readonly />
+            <input type="button" value="2" readonly />
+            <input type="button" value="3" readonly />
+            <input type="button" class="oper" value="&plus;" readonly />
+        </div>
+        <div>
+            <input type="button" value="00" readonly />
+            <input type="button" value="0" readonly />
+            <input type="button" value="." readonly />
+            <input type="button" class="eql oper" value="&equals;" readonly />
+        </div>
+        </form>
+    </div>
+    <script src="{% static 'js/app.js' %}"></script>
+</body>
+
+</html>
