@@ -16,8 +16,8 @@ It includes 4 projects that were a part of the program.
 - [License](#license)
 
 ## Installation
-git clone https://github.com/Zaid-N-Ansari/Oasis-InternShip.git
-cd Oasis-InternShip
+- git clone https://github.com/Zaid-N-Ansari/Oasis-InternShip.git
+- cd Oasis-InternShip
 
 Now go to any of the 4 directories in the Oasis-InternShip directory.
 
