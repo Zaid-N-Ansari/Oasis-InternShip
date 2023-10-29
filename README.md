@@ -41,10 +41,13 @@ It includes 4 projects that were a part of the program.
 You can goto the 127.0.0.1:8000/admin and login using the credentials you used while creating the superuser.
 Login and then explore the admin panel, get well-versed with that.
 If you face any errors or any problems while any of the above metioned steps and anything else, please feel free to contact me on my LinkedIn account &nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaid-n-ansari/)](https://www.linkedin.com/in/zaid-ansari-71a0a1292)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaid-n-ansari/)](https://www.linkedin.com/in/zaid-ansari-71a0a1292) or just raise an issue.
 
 ## Contributing
 If you want to contribute to this project and make it better, your help is very welcome. Create a pull request with your proposed changes.
 
 ## License
 This project is licensed under the [MIT](https://github.com/Zaid-N-Ansari/Oasis-InternShip/blob/main/LICENSE) License.
+
+
+Thank you for reviewing my repository, have a great day.
