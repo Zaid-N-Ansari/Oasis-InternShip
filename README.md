@@ -1,4 +1,4 @@
-# OasisInternShip
+# Oasis-InternShip
 
 This repository contains the project work completed during the Oasis Internship program.
 I have used Django, a Python backend, for all of my projects.
