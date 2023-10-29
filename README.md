@@ -19,9 +19,30 @@ It includes 4 projects that were a part of the program.
 - git clone https://github.com/Zaid-N-Ansari/Oasis-InternShip.git
 - cd Oasis-InternShip
 
-Now go to any of the 4 directories in the Oasis-InternShip directory.
+- Now go to any of the 4 directories in the Oasis-InternShip directory.
 
-After navigating to your directory of choice.
+- After navigating to your directory of choice.
 
-Install the requirements to run the Django Web App on your local machine:
-pip install -r requirements.txt
+- Install the requirements to run the Django Web App on your local machine:
+- pip install -r requirements.txt
+
+- Migrate the database to the default database that Django provides by default
+- python manage.py makemigrations
+- python manage.py migrate
+
+- After you migrated the DB now, create a superuser for overseeing the system management
+- python manage.py createsuperuser
+- Enter the various details and
+- Run the following command to start the developement server.
+- python manage.py runserver
+- Goto 127.0.0.1:8000 on your browser of choice.
+
+## Usage
+You can goto the 127.0.0.1:8000/admin and login using the credentials you used while creating the superuser.
+Login and then explore the admin panel, get well-versed with that.
+
+## Contributing
+If you want to contribute to this project and make it better, your help is very welcome. Create a pull request with your proposed changes.
+
+## License
+This project is licensed under the [MIT](https://github.com/Zaid-N-Ansari/Oasis-InternShip/blob/main/LICENSE) License.
