@@ -8,8 +8,7 @@ I have used Django, a Python backend, for all of my projects.
 This repository serves as a record of the tasks completed during the internship at Oasis.
 It includes 4 projects that were a part of the program.
 
-## What are the content of this Repo
-- There are 4 directories in this Repo
+## What Projects are in this repository
   1. Calculator Web App
   2. LoginAuth and Registeration Web App
   3. ToDo Web App
