@@ -21,6 +21,10 @@ It includes 4 projects that were a part of the program.
 - [Contributing](#contributing)
 - [License](#license)
 
+## System Prerequisites
+- Make sure you have Python 3.x
+- and make sure you have Django installed
+
 ## Installation
 - git clone https://github.com/Zaid-N-Ansari/Oasis-InternShip.git
 - cd Oasis-InternShip
