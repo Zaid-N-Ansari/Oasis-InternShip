@@ -5,7 +5,7 @@ let hists = Array.from(document.querySelectorAll("td[name='calc_hist']"))
 let string = "";
 
 hists.forEach(hist => {
-    hist.addEventListener('click', function(e) {
+    hist.addEventListener('click', function() {
         inputBox.value = this.innerText;
     });
 });
