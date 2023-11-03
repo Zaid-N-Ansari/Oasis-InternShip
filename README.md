@@ -52,7 +52,7 @@ You can goto the 127.0.0.1:8000/admin and login using the credentials you used w
 Login and then explore the admin panel, get well-versed with that.
 If you face any errors or any problems with any of the above metioned steps or anything else, please feel free to contact me on my LinkedIn account
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaid-n-ansari/)](https://www.linkedin.com/in/zaid-ansari-71a0a1292) or
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=YOUR_GMAIL_LINK_HERE)](YOUR_GMAIL_LINK_HERE) just raise an issue.
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=YOUR_GMAIL_LINK_HERE)](zaid.n.ansari01042003@gmail.com) just raise an issue.
 
 ## Contributing
 If you want to contribute to this project and make it better, your help is very welcome. Create a pull request with your proposed changes.
